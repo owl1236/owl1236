@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Saveli Mazouka 👋
 
-<!--
-**owl1236/owl1236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity and Computer Networks engineering student at Akademia Finansów i Biznesu Vistula (Warsaw), working toward an engineering degree.
 
-Here are some ideas to get you started:
+## 🎓 Certifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- CompTIA PenTest+
+
+## 🔍 Focus
+
+- Software reverse engineering
+- Anti-debugging and application protection
+- Penetration testing (in progress)
+
+## 🛠 Tools & Languages
+
+- **Languages:** C++ (C++17/C++23), Python, JavaScript, C#
+- **Analysis:** IDA, Ghidra, Cheat Engine, WinDbg, Wireshark, dnSpy, Procmon
+- **AI:** self-hosted local models, agent harnesses, MCP servers
